@@ -172,7 +172,7 @@ with tab3:
 
 st.divider()
 st.caption(
-    "Built by [Your Name] · "
-    "[GitHub](https://github.com/YOUR_USERNAME/moroccan-telecom-cf) · "
+    "Built by WardiSafae · "
+    "[GitHub](https://github.com/WardiSafae/moroccan-telecom-cf) · "
     "Portfolio project"
 )
