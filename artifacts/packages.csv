@@ -1,0 +1,201 @@
+package_id,name,type,price_mad,data_gb,voice_min,intl_min,segment
+0,Low Voice 35,voice,35,0.0,442,0,low
+1,Low Data 40,data,40,10.8,0,0,low
+2,Low Voice 10,voice,10,0.0,158,0,low
+3,Low Combo 35,combo,35,6.4,113,0,low
+4,Low Intl 25,intl,25,1.9,48,53,low
+5,Low Data 35,data,35,8.6,0,0,low
+6,Low Data 15,data,15,3.8,0,0,low
+7,Low Intl 10,intl,10,1.1,16,22,low
+8,Low Combo 20,combo,20,4.0,95,0,low
+9,Low Combo 35,combo,35,4.7,137,0,low
+10,Low Data 10,data,10,2.2,0,0,low
+11,Low Combo 30,combo,30,5.4,148,0,low
+12,Low Data 20,data,20,4.7,0,0,low
+13,Low Voice 25,voice,25,0.0,278,0,low
+14,Low Data 10,data,10,2.5,0,0,low
+15,Low Data 15,data,15,4.0,0,0,low
+16,Low Intl 25,intl,25,2.7,42,45,low
+17,Low Intl 35,intl,35,3.7,48,62,low
+18,Low Voice 30,voice,30,0.0,325,0,low
+19,Low Intl 15,intl,15,0.8,26,32,low
+20,Low Data 30,data,30,8.3,0,0,low
+21,Low Combo 25,combo,25,4.1,81,0,low
+22,Low Voice 10,voice,10,0.0,140,0,low
+23,Low Combo 25,combo,25,4.1,113,0,low
+24,Low Combo 30,combo,30,4.9,123,0,low
+25,Low Intl 20,intl,20,1.0,28,34,low
+26,Low Data 20,data,20,5.7,0,0,low
+27,Low Voice 15,voice,15,0.0,155,0,low
+28,Low Intl 15,intl,15,1.1,24,30,low
+29,Low Combo 35,combo,35,6.1,133,0,low
+30,Low Data 35,data,35,7.6,0,0,low
+31,Low Data 10,data,10,2.1,0,0,low
+32,Low Intl 35,intl,35,2.9,40,70,low
+33,Low Intl 15,intl,15,1.5,21,28,low
+34,Low Voice 20,voice,20,0.0,275,0,low
+35,Low Combo 20,combo,20,2.5,64,0,low
+36,Low Data 40,data,40,11.6,0,0,low
+37,Low Data 30,data,30,6.8,0,0,low
+38,Low Intl 40,intl,40,4.2,68,77,low
+39,Low Combo 15,combo,15,1.9,72,0,low
+40,Low Voice 25,voice,25,0.0,280,0,low
+41,Low Combo 20,combo,20,3.3,67,0,low
+42,Low Data 35,data,35,9.7,0,0,low
+43,Low Data 35,data,35,8.5,0,0,low
+44,Low Data 30,data,30,7.8,0,0,low
+45,Low Voice 30,voice,30,0.0,315,0,low
+46,Low Intl 20,intl,20,1.1,29,36,low
+47,Low Combo 15,combo,15,1.9,62,0,low
+48,Low Intl 15,intl,15,1.7,23,27,low
+49,Low Combo 30,combo,30,3.7,147,0,low
+50,Low Data 25,data,25,7.0,0,0,low
+51,Low Voice 10,voice,10,0.0,129,0,low
+52,Low Combo 25,combo,25,4.9,103,0,low
+53,Low Combo 25,combo,25,3.5,91,0,low
+54,Low Combo 25,combo,25,3.9,76,0,low
+55,Low Data 35,data,35,10.1,0,0,low
+56,Low Combo 10,combo,10,1.6,32,0,low
+57,Low Combo 30,combo,30,4.3,129,0,low
+58,Low Combo 35,combo,35,6.4,112,0,low
+59,Low Combo 40,combo,40,5.5,122,0,low
+60,Mid Voice 70,voice,70,0.0,855,0,mid
+61,Mid Data 90,data,90,25.3,0,0,mid
+62,Mid Intl 60,intl,60,7.0,77,120,mid
+63,Mid Intl 50,intl,50,5.8,58,77,mid
+64,Mid Data 70,data,70,20.9,0,0,mid
+65,Mid Voice 100,voice,100,0.0,1449,0,mid
+66,Mid Intl 100,intl,100,11.3,151,181,mid
+67,Mid Voice 90,voice,90,0.0,1257,0,mid
+68,Mid Data 60,data,60,12.6,0,0,mid
+69,Mid Combo 90,combo,90,12.7,438,0,mid
+70,Mid Intl 50,intl,50,2.9,91,82,mid
+71,Mid Combo 50,combo,50,8.4,237,0,mid
+72,Mid Voice 50,voice,50,0.0,593,0,mid
+73,Mid Intl 90,intl,90,10.6,135,147,mid
+74,Mid Intl 40,intl,40,2.6,45,87,mid
+75,Mid Intl 40,intl,40,3.4,67,83,mid
+76,Mid Data 50,data,50,14.0,0,0,mid
+77,Mid Voice 90,voice,90,0.0,1299,0,mid
+78,Mid Intl 40,intl,40,2.3,77,75,mid
+79,Mid Intl 60,intl,60,5.1,99,147,mid
+80,Mid Combo 60,combo,60,11.6,182,0,mid
+81,Mid Combo 70,combo,70,12.0,224,0,mid
+82,Mid Combo 40,combo,40,6.1,197,0,mid
+83,Mid Voice 80,voice,80,0.0,1247,0,mid
+84,Mid Combo 90,combo,90,14.2,411,0,mid
+85,Mid Intl 40,intl,40,2.3,73,91,mid
+86,Mid Data 50,data,50,12.7,0,0,mid
+87,Mid Intl 80,intl,80,8.9,128,153,mid
+88,Mid Voice 60,voice,60,0.0,753,0,mid
+89,Mid Voice 80,voice,80,0.0,1216,0,mid
+90,Mid Data 70,data,70,15.7,0,0,mid
+91,Mid Data 50,data,50,13.7,0,0,mid
+92,Mid Intl 90,intl,90,5.2,95,188,mid
+93,Mid Data 50,data,50,14.1,0,0,mid
+94,Mid Data 60,data,60,12.9,0,0,mid
+95,Mid Intl 100,intl,100,6.2,128,165,mid
+96,Mid Data 40,data,40,8.1,0,0,mid
+97,Mid Combo 40,combo,40,5.4,124,0,mid
+98,Mid Data 80,data,80,21.4,0,0,mid
+99,Mid Intl 60,intl,60,4.3,90,142,mid
+100,Mid Intl 90,intl,90,4.8,106,156,mid
+101,Mid Voice 50,voice,50,0.0,671,0,mid
+102,Mid Intl 60,intl,60,3.2,82,121,mid
+103,Mid Intl 40,intl,40,4.3,42,96,mid
+104,Mid Combo 40,combo,40,7.5,192,0,mid
+105,Mid Voice 100,voice,100,0.0,1481,0,mid
+106,Mid Combo 90,combo,90,15.4,410,0,mid
+107,Mid Combo 40,combo,40,6.5,161,0,mid
+108,Mid Intl 100,intl,100,8.2,138,213,mid
+109,Mid Voice 50,voice,50,0.0,541,0,mid
+110,Mid Data 70,data,70,16.9,0,0,mid
+111,Mid Combo 50,combo,50,7.5,186,0,mid
+112,Mid Combo 60,combo,60,9.0,262,0,mid
+113,Mid Voice 60,voice,60,0.0,941,0,mid
+114,Mid Combo 100,combo,100,15.8,365,0,mid
+115,Mid Data 70,data,70,19.9,0,0,mid
+116,Mid Data 80,data,80,22.4,0,0,mid
+117,Mid Combo 70,combo,70,11.9,250,0,mid
+118,Mid Voice 90,voice,90,0.0,1009,0,mid
+119,Mid Combo 80,combo,80,15.1,261,0,mid
+120,High Intl 180,intl,180,10.2,310,285,high
+121,High Combo 250,combo,250,32.7,1229,0,high
+122,High Voice 200,voice,200,0.0,2712,0,high
+123,High Data 200,data,200,55.9,0,0,high
+124,High Intl 250,intl,250,16.9,397,398,high
+125,High Combo 180,combo,180,24.1,743,0,high
+126,High Voice 180,voice,180,0.0,2303,0,high
+127,High Combo 180,combo,180,32.6,827,0,high
+128,High Combo 150,combo,150,25.2,729,0,high
+129,High Intl 100,intl,100,5.8,108,215,high
+130,High Combo 150,combo,150,27.3,651,0,high
+131,High Combo 150,combo,150,28.8,678,0,high
+132,High Combo 120,combo,120,17.9,435,0,high
+133,High Data 100,data,100,21.5,0,0,high
+134,High Voice 250,voice,250,0.0,3156,0,high
+135,High Combo 150,combo,150,26.8,615,0,high
+136,High Intl 250,intl,250,26.2,369,469,high
+137,High Combo 250,combo,250,44.4,1225,0,high
+138,High Data 100,data,100,28.5,0,0,high
+139,High Intl 180,intl,180,10.5,285,393,high
+140,High Combo 100,combo,100,15.6,465,0,high
+141,High Data 120,data,120,29.5,0,0,high
+142,High Data 150,data,150,34.5,0,0,high
+143,High Combo 250,combo,250,45.6,805,0,high
+144,High Data 250,data,250,72.0,0,0,high
+145,High Combo 120,combo,120,22.4,385,0,high
+146,High Combo 250,combo,250,43.3,1075,0,high
+147,High Combo 100,combo,100,19.2,305,0,high
+148,High Voice 120,voice,120,0.0,1302,0,high
+149,High Intl 200,intl,200,12.8,382,431,high
+150,High Intl 100,intl,100,5.0,105,210,high
+151,High Intl 200,intl,200,13.3,369,311,high
+152,High Combo 200,combo,200,38.8,908,0,high
+153,High Intl 200,intl,200,21.7,208,340,high
+154,High Voice 100,voice,100,0.0,1302,0,high
+155,High Combo 200,combo,200,34.1,940,0,high
+156,High Data 100,data,100,27.3,0,0,high
+157,High Voice 120,voice,120,0.0,1394,0,high
+158,High Voice 200,voice,200,0.0,3176,0,high
+159,High Combo 180,combo,180,22.4,761,0,high
+160,High Voice 100,voice,100,0.0,1530,0,high
+161,High Data 200,data,200,43.5,0,0,high
+162,High Data 100,data,100,21.8,0,0,high
+163,High Data 250,data,250,61.5,0,0,high
+164,High Combo 200,combo,200,34.2,828,0,high
+165,High Data 100,data,100,29.5,0,0,high
+166,High Combo 120,combo,120,19.9,527,0,high
+167,High Data 180,data,180,52.9,0,0,high
+168,High Voice 100,voice,100,0.0,1305,0,high
+169,High Combo 150,combo,150,23.7,485,0,high
+170,High Intl 100,intl,100,6.9,130,192,high
+171,High Intl 180,intl,180,17.0,254,343,high
+172,High Intl 120,intl,120,10.9,158,184,high
+173,High Data 150,data,150,37.1,0,0,high
+174,High Voice 120,voice,120,0.0,1612,0,high
+175,High Data 180,data,180,48.6,0,0,high
+176,High Combo 180,combo,180,31.0,653,0,high
+177,High Voice 200,voice,200,0.0,2658,0,high
+178,High Voice 150,voice,150,0.0,2063,0,high
+179,High Combo 150,combo,150,24.2,671,0,high
+180,Ramadan Special,combo,45,12.0,200,30,mid
+181,Ramadan Voice,voice,15,0.0,300,0,low
+182,Diaspora Europe,intl,70,5.0,60,120,mid
+183,Diaspora Maghreb,intl,50,4.0,90,90,mid
+184,Diaspora World,intl,120,10.0,120,300,high
+185,Student Pack,combo,35,8.0,60,0,low
+186,Tourist SIM,combo,60,10.0,100,60,mid
+187,Gamer Pack,data,75,25.0,0,0,high
+188,Social Media Pack,data,35,10.0,0,0,mid
+189,Music Streaming,data,40,12.0,0,0,mid
+190,Video Streaming,data,55,20.0,0,0,high
+191,Senior Pack,voice,30,1.0,300,0,low
+192,SME Starter,combo,85,15.0,200,30,high
+193,Roaming Africa,intl,95,6.0,100,150,high
+194,Business Pro,combo,150,50.0,600,60,high
+195,Family Share,combo,110,25.0,300,30,high
+196,Weekend Data,data,20,5.0,0,0,low
+197,Night Owl,data,25,8.0,0,0,low
+198,Mega Data,data,110,60.0,0,0,high
+199,Ultimate Combo,combo,200,100.0,1000,200,high
