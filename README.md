@@ -5,7 +5,7 @@ next best mobile package to Moroccan prepaid subscribers — built as a
 portfolio project targeting Data Science / ML roles in Morocco's
 telecom and banking sectors.
 
-**🔗 Live demo:** [streamlit-url]
+**🔗 Live demo:** [https://moroccan-telecom-cf-bdsi.streamlit.app/]
 **📓 Notebook:** [https://www.kaggle.com/code/wardisafae/moroccan-telecom-cf-recommender]
 
 ---
