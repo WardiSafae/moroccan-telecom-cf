@@ -1,7 +1,7 @@
-streamlit==1.32.0
-implicit==0.7.2
-numpy
+streamlit
+implicit
 pandas
+numpy
 scipy
 scikit-learn
 matplotlib
